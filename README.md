@@ -1,23 +1,11 @@
-# ✅ Todo in Eletron
+<h1 align="center">todo-electron</h1>
 
-This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
-
-## To Use
-
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-git clone https://github.com/electron/electron-quick-start
-# Go into the repository
-cd electron-quick-start
-# Install dependencies
-npm install
-# Run the app
-npm start
-```
+<p align="center">
+<img src="https://img.shields.io/badge/made%20in-tanzania-green?style=for-the-badge" alt="made in tanzania">
+<img src="https://img.shields.io/badge/todo-electron-blue?style=for-the-badge&logo=cpp" alt="electron: todo">
+</p>
 
 
 ## License
 
-[CC0 1.0 (Public Domain)](LICENSE.md)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=for-the-badge)](http://creativecommons.org/publicdomain/zero/1.0/)
