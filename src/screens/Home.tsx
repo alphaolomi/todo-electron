@@ -1,5 +1,5 @@
-import { homedir } from 'os';
 import React from 'react';
+// import { homedir } from 'os';
 import icon from '../../assets/icon.svg';
 
 const Home = () => {
